@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "2970b65018db31c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ef90990c4bafc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily ToDos/2022-08-05.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0e9f5cbb3ebb21d",
+    "type": "split",
+    "children": [
+      {
+        "id": "baadfe57dc24bba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4efef4beeeb63d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "147ca19c0425c84c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ba_01_prototype",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42f37f733148daed",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f1f5bd357d0241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ec3bfd49121a15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily ToDos/2022-08-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3242a73b57f59906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2ef41aa4d51f053",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "36272987a0d7ab7f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "188f979cdddaa14e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b923e9a6f9eb4962",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily ToDos/2022-08-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "active": "90ef90990c4bafc8",
+  "lastOpenFiles": [
+    "Projects/Current Projects/Home Server/Docker.md",
+    "Lists/Markdown/Markdown.md",
+    "Daily ToDos/2022-07-30.md",
+    "Projects/Current Projects/Home Server/HomeLab.md",
+    "Projects/Current Projects/Home Server/Ansible.md",
+    "Daily ToDos/2022-07-26.md",
+    "Daily ToDos/2022-07-15.md",
+    "Daily ToDos/2022-07-17.md",
+    "Lists/Project ideas.md",
+    "Daily ToDos/2022-07-13.md"
+  ]
+}
